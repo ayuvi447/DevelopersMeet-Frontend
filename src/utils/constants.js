@@ -1,1 +1,1 @@
-export const BASE_URL = "http://localhost:3009/"
+export const BASE_URL = "https://developersmeet-backend-v.onrender.com"
