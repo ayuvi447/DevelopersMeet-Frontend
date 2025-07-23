@@ -1,1 +1,1 @@
-export const BASE_URL = "https://developersmeet-backend-4.onrender.com/"
+export const BASE_URL = "https://developersmeet-backend-25kb.onrender.com/"
